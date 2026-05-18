@@ -1,0 +1,3 @@
+server_name,cpu_usage,ram_usage,cpu_free,ram_free
+auth-production-01,63.4,66.6,36.6,33.4
+payment-testing-02,72.0,73.7,28.0,26.3
